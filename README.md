@@ -1,4 +1,4 @@
 structuredBuilderPattern
 ========================
 
-Demonstrates generic-driven builder pattern which is sort of structurized.
+Demonstrates generics-driven builder pattern which is sort of structurized.
